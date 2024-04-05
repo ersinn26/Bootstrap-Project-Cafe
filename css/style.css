@@ -66,10 +66,10 @@
 }
 
 .black {
-  width: 401px;
+  width: 400px;
   height: 400px;
   position: absolute;
-  background-color: rgba(0, 0, 0, 0.466);
+  background-color: rgba(0, 0, 0, 0.637);
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%) rotate(45deg);
